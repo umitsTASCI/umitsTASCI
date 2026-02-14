@@ -1,10 +1,9 @@
 name: Generate GitHub Snake
 
-# Workflow ne zaman çalışacak
 on:
   push:
-    branches: [main] # default branch'in adı main ise
-  workflow_dispatch:  # manuel tetikleme için
+    branches: [main]
+  workflow_dispatch:
 
 jobs:
   build:
