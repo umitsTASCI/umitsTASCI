@@ -1,38 +1,24 @@
-name: generate animation
+name: Generate GitHub Snake
 
 on:
-  # Her 24 saatte bir otomatik çalışır
-  schedule:
-    - cron: "0 */24 * * *" 
-  
-  # Manuel olarak da başlatmanı sağlar
   workflow_dispatch:
-  
-  # Ana dizine (main/master) her push yapıldığında çalışır
-  push:
-    branches:
-    - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
-      # Yılan animasyonunu oluşturur
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Generate Snake Animations
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      # Oluşturulan dosyayı "output" branchine yükler
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-snake.svg?palette=github-light&color_snake=00FF00&color_dots=003300,006600,009900,00CC00,00FF00
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=00FF00&color_dots=003300,006600,009900,00CC00,00FF00
