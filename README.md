@@ -82,10 +82,11 @@
 # 🐍 Contribution Grid
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/main/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/main/output/github-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/main/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/main/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/main/github-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/main/github-snake.svg">
 </picture>
+
 
 
 
