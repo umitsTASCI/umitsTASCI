@@ -6,7 +6,7 @@
     # github user name
     github_user_name: umitsTASCİ
     # github token used to fetch the contribution calendar. Default to the action token if empty.
-    github_token: # optional, default is ${{ github.token }}
+    github_token: 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# optional, default is ${{ github.token }}
     # list of files to generate.
 one file per line. Each output can be customized with options as query string.
 
