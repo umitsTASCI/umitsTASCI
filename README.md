@@ -1,7 +1,7 @@
-![SiberVatanBanner](https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/main/siber-vatan-banner.png)
+![SiberVatanBanner](https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/main/sibervatan_renkli.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=root@matrix:~# Welcome+to+Siber+Vatan;Cybersecurity+Engineer+%7C+Red+Team;Python+C%2B%2B+C%23+Hacker;PenTest+%26+Network+Sec;Offensive+%26+Defensive+Security" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=root@matrix:~%23+Welcome+to+UMIT+SAMET+TASCI;Cybersecurity+Engineer+%26+Computer+Engineer;PenTest+%26+Network+Security+++ect.;Offensive+%26+Defensive+Security" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
 - ⚙️ Developing custom security & automation tools  
 - 🎓 Computer Engineering Student @ **Karabuk University**  
 - 💻 Exploring exploit development, malware analysis, network fuzzing  
-- 🏰 Defender of the **Siber Vatan** – protecting our digital homeland  
+- 🏰 Student of the **Siber Vatan** – the biggest cybersecurity course in Turkiye
 - 📫 Contact me: **umitstasci@gmail.com**
 
 ---
@@ -28,9 +28,17 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
   <a href="mailto:umitstasci@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" height="30" width="40" />
+    <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" height="30" width="40" />
+  </a>
+  <a href="https://github.com/umitsTASCI" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
 </p>
+
+
+
+
+
 
 ---
 
@@ -74,9 +82,9 @@
 # 🐍 Contribution Grid
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
 ---
@@ -91,7 +99,7 @@
 
 ---
 
-# 🖤 Matrix Terminal Mode (fake)
+# 🖤 Terminal Mode
 
 ```bash
 root@matrix:~# whoami
