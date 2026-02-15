@@ -101,12 +101,12 @@
 root@matrix:~# whoami
 umitsTASCI
 
-root@matrix:~# ./defend_siber_vatan
+root@matrix:~# ./Siber_vatan_Protocols
 Scanning national network...
 Payloads ready...
 Bettercap initialized...
 Ettercap sniffing...
-Siber Vatan secure
+Siber Vatan verified
 Mission complete
 
 root@matrix:~# status
