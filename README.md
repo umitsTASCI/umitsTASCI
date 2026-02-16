@@ -4,7 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=root@matrix:~%23+Welcome+to+UMIT+SAMET+TASCI;Cybersecurity+Engineer+%26+Computer+Engineer;PenTest+%26+Network+Security+++ect.;Offensive+%26+Defensive+Security" />
 </div>
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Accessing_Database-E30613?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=umitsTASCI&color=E30613&style=flat-square&label=VISITORS" />
+</p>---
 
 <h3 align="left">About Me</h3>
 
