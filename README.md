@@ -1,4 +1,4 @@
-![SiberVatanBanner](https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/main/sibervatan_renkli.png)
+// ![SiberVatanBanner](https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/main/sibervatan_renkli.png)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=root@matrix:~%23+Welcome+to+UMIT+SAMET+TASCI;Cybersecurity+Engineer+%26+Computer+Engineer;PenTest+%26+Network+Security+++ect.;Offensive+%26+Defensive+Security" />
