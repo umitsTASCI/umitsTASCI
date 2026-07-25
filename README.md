@@ -1,11 +1,18 @@
+---
 <h2 align="left">Who is me</h2>
-Computer Engineering student at Karabük University with a strong focus on cybersecurity and network security. Passionate about software development, system security, and automation. Always eager to explore emerging technologies, contribute to open-source projects, and build reliable software solutions.
+Computer Engineering student at Karabük University with a strong focus on cybersecurity and network security. 
+Passionate about software development, system security, and automation. 
+Always eager to explore emerging technologies, contribute to open-source projects, and build reliable software solutions.
+
+---
+
+
 </div>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Accessing_Database-E30613?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=umitsTASCI&color=E30613&style=flat-square&label=VISITORS" />
-</p>---
+</p>
 
 <h3 align="left">About Me</h3>
 
