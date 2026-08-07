@@ -96,9 +96,8 @@ Always eager to explore emerging technologies, contribute to open-source project
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umitsTASCI&theme=matrix&hide_border=false" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=umitsTASCI&theme=matrix&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitsTASCI&layout=compact&theme=matrix" />
+
 </p>
 
 ---
