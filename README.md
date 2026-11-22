@@ -127,12 +127,12 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umitsTASCI&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&ring_color=38BDF8&rank_icon=github" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umitsTASCI&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&ring_color=38BDF8&rank_icon=github&disable_animations=true" alt="GitHub stats" />
   <img width="48%" src="https://streak-stats.demolab.com?user=umitsTASCI&hide_border=true&background=0B1220&border=1E293B&stroke=1E293B&ring=38BDF8&fire=FB7185&currStreakNum=F8FAFC&sideNums=CBD5E1&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitsTASCI&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Top languages" />
+  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitsTASCI&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&disable_animations=true" alt="Top languages" />
 </div>
 
 <div align="center">
