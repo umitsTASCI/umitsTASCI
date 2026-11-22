@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-labelledby="bannerTitle bannerDesc">
+  <title id="bannerTitle">Ümit Samet Taşçı — Cybersecurity, Robotics Software, ROS 2, App Development</title>
+  <desc id="bannerDesc">Dark technical banner with a hexagon node graph, circuit traces and a scanning line.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05080F"/>
+      <stop offset="0.55" stop-color="#0A1120"/>
+      <stop offset="1" stop-color="#0E1729"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="72" y1="0" x2="1180" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+
+    <radialGradient id="glowCyan" cx="0.5" cy="0.5" r="0.5">
+      <stop stop-color="#0EA5E9" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowViolet" cx="0.5" cy="0.5" r="0.5">
+      <stop stop-color="#7C3AED" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="scan" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#22D3EE" stop-opacity="0.40"/>
+      <stop offset="0.65" stop-color="#38BDF8" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#38BDF8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+
+    <clipPath id="frame">
+      <rect width="1280" height="360" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="360" fill="url(#bg)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+
+    <ellipse cx="1090" cy="40" rx="420" ry="260" fill="url(#glowCyan)"/>
+    <ellipse cx="140" cy="350" rx="420" ry="240" fill="url(#glowViolet)"/>
+
+    <!-- circuit traces -->
+    <g stroke="#38BDF8" stroke-opacity="0.18" stroke-width="1.2" fill="none">
+      <path d="M1260 46h-42l-20 20v42"/>
+      <path d="M1244 332h-62l-24-24"/>
+      <path d="M946 42h-52l-18 18"/>
+      <path d="M952 324h-58l-20-20"/>
+      <path d="M22 0v96"/>
+      <path d="M18 360v-58"/>
+    </g>
+    <g fill="#22D3EE" fill-opacity="0.45">
+      <circle cx="1198" cy="108" r="2.4"/>
+      <circle cx="1158" cy="308" r="2.4"/>
+      <circle cx="876" cy="60" r="2.4"/>
+      <circle cx="874" cy="304" r="2.4"/>
+      <circle cx="22" cy="108" r="2.4"/>
+    </g>
+
+    <!-- scanning line -->
+    <g>
+      <rect x="0" y="-2" width="1280" height="2" fill="url(#scan)">
+        <animate attributeName="y" values="-2;362;362" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- vertical divider -->
+    <path d="M930 92v176" stroke="url(#accent)" stroke-opacity="0.22" stroke-width="1"/>
+
+    <!-- eyebrow -->
+    <text x="72" y="78" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="13" letter-spacing="5" fill="#38BDF8">// WHOAMI</text>
+
+    <!-- name -->
+    <text x="72" y="150" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="1" fill="#F8FAFC">ÜMİT SAMET TAŞÇI</text>
+
+    <rect x="72" y="172" width="126" height="4" rx="2" fill="url(#accent)"/>
+
+    <!-- roles -->
+    <text x="72" y="215" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="17.5" letter-spacing="2.2" fill="#7DD3FC">CYBERSECURITY  ·  ROBOTICS  ·  ROS 2  ·  APP DEVELOPMENT</text>
+
+    <!-- meta -->
+    <text x="72" y="253" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#94A3B8">Computer Engineering @ Karabük University  ·  Siber Vatan  ·  Türkiye</text>
+
+    <!-- status pill -->
+    <g>
+      <rect x="72" y="282" width="380" height="38" rx="19" fill="#0B1220" stroke="#1E293B"/>
+      <circle cx="96" cy="301" r="4" fill="#34D399">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="112" y="306" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="12" letter-spacing="1.4" fill="#A7F3D0">OPEN TO INTERNSHIPS &amp; COLLABORATION</text>
+    </g>
+
+    <!-- emblem -->
+    <g>
+      <!-- outer hexagon -->
+      <path d="M1075 58 L1180.6 119 L1180.6 241 L1075 302 L969.4 241 L969.4 119 Z" stroke="url(#accent)" stroke-opacity="0.55" stroke-width="1.6"/>
+
+      <!-- rotating dashed hexagon -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0 1075 180" to="360 1075 180" dur="48s" repeatCount="indefinite"/>
+        <path d="M1075 84 L1158.1 132 L1158.1 228 L1075 276 L991.9 228 L991.9 132 Z" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1.2" stroke-dasharray="4 9"/>
+      </g>
+
+      <!-- inner hexagon -->
+      <path d="M1075 108 L1137.4 144 L1137.4 216 L1075 252 L1012.6 216 L1012.6 144 Z" fill="#0A1120" fill-opacity="0.78" stroke="#1E293B"/>
+
+      <!-- node graph -->
+      <g stroke="#38BDF8" stroke-opacity="0.32" stroke-width="1.1">
+        <path d="M1050 156 L1094 146"/>
+        <path d="M1094 146 L1110 184"/>
+        <path d="M1110 184 L1084 214"/>
+        <path d="M1084 214 L1046 198"/>
+        <path d="M1046 198 L1050 156"/>
+        <path d="M1050 156 L1074 180"/>
+        <path d="M1094 146 L1074 180"/>
+        <path d="M1110 184 L1074 180"/>
+        <path d="M1084 214 L1074 180"/>
+        <path d="M1046 198 L1074 180"/>
+      </g>
+
+      <g fill="#22D3EE">
+        <circle cx="1050" cy="156" r="3">
+          <animate attributeName="opacity" values="0.4;1;0.4" dur="3.2s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="1094" cy="146" r="3">
+          <animate attributeName="opacity" values="0.4;1;0.4" dur="3.2s" begin="0.5s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="1110" cy="184" r="3">
+          <animate attributeName="opacity" values="0.4;1;0.4" dur="3.2s" begin="1s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="1084" cy="214" r="3">
+          <animate attributeName="opacity" values="0.4;1;0.4" dur="3.2s" begin="1.5s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="1046" cy="198" r="3">
+          <animate attributeName="opacity" values="0.4;1;0.4" dur="3.2s" begin="2s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <circle cx="1074" cy="180" r="4.6" fill="#A78BFA"/>
+
+      <!-- orbiting particles -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0 1075 180" to="360 1075 180" dur="26s" repeatCount="indefinite"/>
+        <circle cx="1075" cy="58" r="4" fill="#22D3EE"/>
+        <circle cx="1075" cy="58" r="8" fill="#22D3EE" opacity="0.35" filter="url(#soft)"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="360 1075 180" to="0 1075 180" dur="34s" repeatCount="indefinite"/>
+        <circle cx="1075" cy="302" r="3" fill="#A78BFA"/>
+      </g>
+    </g>
+
+    <!-- corner ticks -->
+    <g stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1.5" fill="none">
+      <path d="M40 62V40h22"/>
+      <path d="M1218 40h22v22"/>
+      <path d="M40 298v22h22"/>
+      <path d="M1240 298v22h-22"/>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="25.5" stroke="#1E293B"/>
+</svg>
