@@ -116,7 +116,7 @@
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
-| [**Aut0mat1c-Sn1ffer**](https://github.com/umitsTASCI/Aut0mat1c-Sn1ffer) ⭐ | End-to-end lab automation: creates a PHP web shell, serves it locally and catches the reverse shell with Netcat. | `Shell` `Python` `Netcat` |
+| [**Aut0mat1c-Sn1ffer**](https://github.com/umitsTASCI/Aut0mat1c-Sn1ffer) | End-to-end lab automation: creates a PHP web shell, serves it locally and catches the reverse shell with Netcat. | `Shell` `Python` `Netcat` |
 | [**wan-ip-remover**](https://github.com/umitsTASCI/wan-ip-remover) | Windows app that renews the ISP-assigned public IP on a schedule through a TP-Link TD-W9970. | `Python` `Networking` `Windows` |
 | [**bypass**](https://github.com/umitsTASCI/bypass) | Containerized Xray + nginx tunnel with environment-driven config and a health endpoint. | `Docker` `Nginx` `Xray` |
 
@@ -127,7 +127,7 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umitsTASCI&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umitsTASCI&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&ring_color=38BDF8&rank_icon=github" alt="GitHub stats" />
   <img width="48%" src="https://streak-stats.demolab.com?user=umitsTASCI&hide_border=true&background=0B1220&border=1E293B&stroke=1E293B&ring=38BDF8&fire=FB7185&currStreakNum=F8FAFC&sideNums=CBD5E1&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
 </div>
 
@@ -146,6 +146,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/output/github-contribution-grid-snake.svg" />
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/umitsTASCI/umitsTASCI/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
+<p align="center"><sub>Refreshed daily by GitHub Actions — the snake eats my contribution graph.</sub></p>
 
 ---
 
